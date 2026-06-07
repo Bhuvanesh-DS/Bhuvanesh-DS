@@ -68,8 +68,7 @@ Currently open to **full-time roles** in Data Science, ML Engineering, and Data 
 
 ## 📊 GitHub Stats
 
-![Bhuvanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhuvanesh-DS&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvanesh-DS&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Bhuvanesh-DS&theme=dark&hide_border=true)
 
 ---
 
