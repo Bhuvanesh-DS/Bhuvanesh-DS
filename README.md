@@ -75,7 +75,7 @@ Now I am looking for a full time job in Data Science, ML Engineering and Data An
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Bhuvanesh-DS&theme=dark&hide_border=
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com?user=Bhuvanesh-DS&theme=dark&hide_border=true)
 
 ---
 
