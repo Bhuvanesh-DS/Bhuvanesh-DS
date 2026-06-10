@@ -59,7 +59,7 @@ Now I am looking for a full time job in Data Science, ML Engineering and Data An
 
 | 🦴 [Osteoporosis Risk Prediction](#) | This project predicts if someone is at risk of getting osteoporosis based on their lifestyle and medical data. I used **Machine Learning** and **Data Science** techniques. | Python, Scikit-learn **Machine Learning** |
 
-| 📈 [Website Traffic Forecasting](#) | This project predicts traffic patterns for resource planning. I used **Data Science**. *Machine Learning** techniques. | Python, Time-series, Matplotlib |
+| 📈 [Website Traffic Forecasting](https://website-traffic-forecasting-j9jhcccqht8g6c2lyuym3z.streamlit.app) | This project predicts traffic patterns for resource planning. I used **Data Science**. *Machine Learning** techniques. | Python, Time-series, Matplotlib |
 
 | 🤖 [Cybersecurity Threat Detection](#) | This project detects anomalies and threats using **Machine Learning** and **Data Science** techniques. Python, **Machine Learning** EDA |
 
