@@ -82,8 +82,8 @@ Now I am looking for a full time job in Data Science, ML Engineering and Data An
 ## 📬 Lets Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://l1nk.dev/7ppsxgs)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhuvanesh9602@email.com)
+
 
 ---
 
